@@ -13,6 +13,7 @@ $('#menuToggle').on('click', function() {
   });
 });
 
+// Ooh, an attribute selector!
 $('a[data-remote=true]').on('click', function(ev) {
   ev.preventDefault();
   $.ajax({
