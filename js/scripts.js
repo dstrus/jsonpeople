@@ -1,3 +1,5 @@
+// This is ES5-era JavaScript with jQuery!
+
 var people = [{
   firstName: 'Greg',
   lastName: 'Abes'
